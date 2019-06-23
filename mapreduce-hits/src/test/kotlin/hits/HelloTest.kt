@@ -1,0 +1,5 @@
+package hits
+
+class HelloTest {
+
+}
